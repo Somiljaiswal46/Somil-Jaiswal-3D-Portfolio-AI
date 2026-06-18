@@ -9,7 +9,7 @@ const projects = [
     category: "Intelligent Crop Recommendation System",
     tools: "Best crop recommend karta hai according to parameter of soil analysis and climate condition",
     image: "/images/agripulse.png",
-    link: "https://crop-recommendation-blue.vercel.app",
+    link: "https://smart-crop-recommendation-tau.vercel.app/",
   },
 ];
 
