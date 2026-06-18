@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          Experience <span>&</span>
+          <br /> projects
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,58 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Summer Training</h4>
+                <h5>IBM</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Current</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Participating in an intensive summer training program focused on applied machine learning. Currently developing a 'Handwritten Note Digitizer' project, utilizing advanced computer vision and deep learning techniques to accurately extract and digitize handwritten text.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>College Hackathon</h4>
+                <h5>Data Dash</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>Apr<br/>2026</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Collaborated with a team to conceptualize and build a robust Sentiment Analysis model leveraging Deep Learning. Designed the model architecture to process and analyze textual data with high accuracy in a competitive, time-constrained environment.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Web Development Intern</h4>
+                <h5>Intensive Program</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>45 Days</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Successfully completed a rigorous 45-day internship focused on modern web development. Gained practical experience in designing and implementing responsive, user-centric interfaces. Developed proficiency in core web technologies, prioritizing clean code architecture, performance optimization, and seamless user experiences.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>National Hackathon</h4>
+                <h5>Smart India Hackathon (SIH)</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Actively participated in the prestigious Smart India Hackathon, contributing to the development of innovative software solutions addressing complex real-world challenges. Gained invaluable experience in rapid prototyping, teamwork, and deploying functional applications under strict deadlines.
             </p>
           </div>
         </div>

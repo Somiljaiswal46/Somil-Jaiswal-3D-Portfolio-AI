@@ -21,12 +21,30 @@ const imageUrls = [
   "/images/mysql.webp",
   "/images/typescript.webp",
   "/images/javascript.webp",
+  "/images/tensorflow.png",
+  "/images/pytorch.png",
+  "/images/pandas.png",
+  "/images/scikit.png",
+  "/images/python.png",
+  "/images/numpy.png",
+  "/images/xgboost.png",
+  "/images/lightgbm.png",
+  "/images/catboost.png",
+  "/images/keras.png",
+  "/images/opencv.png",
+  "/images/yolo.png",
+  "/images/nltk.png",
+  "/images/spacy.png",
+  "/images/transformers.png",
+  "/images/flask.png",
+  "/images/fastapi.png",
+  "/images/streamlit.png",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
 const sphereGeometry = new THREE.SphereGeometry(1, 28, 28);
 
-const spheres = [...Array(30)].map(() => ({
+const spheres = [...Array(40)].map(() => ({
   scale: [0.7, 1, 0.8, 1, 1][Math.floor(Math.random() * 5)],
 }));
 
