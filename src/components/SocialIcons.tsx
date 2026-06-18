@@ -108,7 +108,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="https://3d-portfolio-main-tau-one.vercel.app/Somil_Jaiswal.pdf"
+        href="/Somil_Jaiswal_Resume.pdf"
         target="_blank"
         rel="noreferrer"
       >
