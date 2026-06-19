@@ -18,6 +18,13 @@ const projects = [
     image: "/images/sentimentai.png",
     link: "https://ai-sentiment-analyzer-navy.vercel.app/",
   },
+  {
+    title: "TruthGuard.AI",
+    category: "Detect Fake News Before It Spreads.",
+    tools: "Enterprise-grade AI trust verification platform. We analyze linguistic patterns, emotional manipulation, and source reliability in milliseconds",
+    image: "/images/truthguard.png",
+    link: "https://fake-news-detector-liard-gamma.vercel.app/",
+  },
 ];
 
 const Work = () => {
