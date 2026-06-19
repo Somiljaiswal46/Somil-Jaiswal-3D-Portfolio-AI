@@ -11,6 +11,13 @@ const projects = [
     image: "/images/agripulse.png",
     link: "https://smart-crop-recommendation-tau.vercel.app/",
   },
+  {
+    title: "Sentiment AI",
+    category: "AI-Powered Sentiment Analysis",
+    tools: "Instantly decode the emotional tone of any text using advanced neural networks. Designed for professionals, powered by cutting-edge ML.",
+    image: "/images/sentimentai.png",
+    link: "https://ai-sentiment-analyzer-navy.vercel.app/",
+  },
 ];
 
 const Work = () => {
